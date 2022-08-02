@@ -1,0 +1,4 @@
+aiohttp==3.8.1
+country_converter==0.7.4
+geopy==2.2.0
+pandas==1.4.3
