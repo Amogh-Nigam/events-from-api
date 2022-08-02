@@ -320,5 +320,5 @@ cython_debug/
 [Ss]cripts
 pyvenv.cfg
 pip-selfcheck.json
-
+config.ini
 # End of https://www.toptal.com/developers/gitignore/api/pycharm,macos,python,venv
